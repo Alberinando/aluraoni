@@ -5,7 +5,7 @@ export default function Cardapio() {
     return(
         <main>
             <nav className={styles.menu}>
-                <Logo/>
+                <Logo />
             </nav>
         </main>
     )
